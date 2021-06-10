@@ -1,0 +1,24 @@
+{
+  "name": "gui_binance",
+  "version": "1.0.0",
+  "description": "interface de gestion de crypto via API Binance",
+  "main": "index.js",
+  "dependencies": {
+    "node": "^16.1.0",
+    "sass": "^1.34.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "sass": "sass --watch front/style/sass/main.scss:front/style/css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zaisuru/GUI_Binance.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zaisuru/GUI_Binance/issues"
+  },
+  "homepage": "https://github.com/Zaisuru/GUI_Binance#readme"
+}
